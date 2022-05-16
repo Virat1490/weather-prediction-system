@@ -1,0 +1,9 @@
+flask
+email
+pandas
+warnings
+requests
+numpy
+matplotlib
+sklearn 
+csv
